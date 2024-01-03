@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@id=\"gw-desktop-herotator\"]/div/input"
+}

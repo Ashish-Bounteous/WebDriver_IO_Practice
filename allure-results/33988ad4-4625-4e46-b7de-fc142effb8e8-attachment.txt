@@ -1,0 +1,4 @@
+{
+  "script": "\n            const style = document.createElement('style');\n            style.type = 'text/css';\n            style.innerHTML = 'body::-webkit-scrollbar { display: none; }';\n            document.head.appendChild(style);\n        ",
+  "args": []
+}
